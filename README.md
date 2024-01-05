@@ -22,7 +22,6 @@
 <p align="left">
 <a href="https://twitter.com/debarjitm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debarjitm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/debarjit-mohanty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/debarjit-mohanty/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.instagram.com/in/debarjit-mohanty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram-in-alt.svg" alt="https://www.instagram.com/in/debarjit-mohanty/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debarjitmohanty&show_icons=true&locale=en" alt="debarjitmohanty" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debarjitmohanty&" alt="debarjitmohanty" /></p>
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting [🔝](#--gifs-for-readme--)
