@@ -32,4 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debarjitmohanty&show_icons=true&locale=en" alt="debarjitmohanty" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debarjitmohanty&" alt="debarjitmohanty" /></p>
-![image](https://github.com/Debarjitmohanty/Debarjitmohanty/assets/91021174/2b55fd6b-3934-4bee-9a20-8cd225ec965f)
+<a href="![image](https://github.com/Debarjitmohanty/Debarjitmohanty/assets/91021174/2b55fd6b-3934-4bee-9a20-8cd225ec965f)"></a>
