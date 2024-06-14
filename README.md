@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/debarjitm" target="blank"><img src="https://img.shields.io/twitter/follow/debarjitm?logo=twitter&style=for-the-badge" alt="debarjitm" /></a> </p>
 
-- 🔭 I’m currently working on **Human Resource Management System**
+- 🔭 I’m currently working on **My Self**
 
-- 🌱 I’m currently learning **Spring Boot and React**
+- 🌱 I’m currently learning **New Demanding Technology**
 
-- 💬 Ask me about **Develop or Design any Website**
+- 💬 Ask me about **Java FullStack Development**
 
 - 📫 How to reach me **debarjitmohantybanty@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **Only Coding....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
