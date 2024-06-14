@@ -32,10 +32,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debarjitmohanty&" alt="debarjitmohanty" /></p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Debarjitmohanty&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Debarjitmohanty&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Debarjitmohanty&theme=algolia)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Debarjitmohanty&theme=algolia)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Debarjitmohanty&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Debarjitmohanty&theme=algolia&utcOffset=8)
 
   
