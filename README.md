@@ -32,6 +32,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debarjitmohanty&" alt="debarjitmohanty" /></p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Debarjitmohanty&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Debarjitmohanty&theme=algolia)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Debarjitmohanty&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Debarjitmohanty&theme=algolia&utcOffset=8)
+
   
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting [🔝](#--Debarjitmohanty)
 
